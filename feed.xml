@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natasha Harrison</title>
+    <description>My website</description>
+    <link>https://natasha-harrison.github.io/</link>
+    <atom:link href="https://natasha-harrison.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
